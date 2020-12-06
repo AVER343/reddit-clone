@@ -4,6 +4,3 @@ Techologies used - <br/>
 2. NextJS  <br/>
 3. GraphQL <br/>
 4. PostgreSQL <br/>
-<script>
-  console.log('hello world');
-  </script>
